@@ -1,5 +1,8 @@
 _repo: Lawn-Tennis-for-Ladies_10961
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Lambert Chambers, Mrs.
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3770
     wikipedia: http://en.wikipedia.org/wiki/Dorothea_Douglass_Lambert_Chambers
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10961#Lawn-Tennis-for-Ladies
 gutenberg_issued: '2004-02-01'
 gutenberg_type: Text
 identifiers:
